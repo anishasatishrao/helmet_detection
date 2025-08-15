@@ -1,7 +1,7 @@
 # import cv2
 # from ultralytics import YOLO
 
-# model = YOLO("C:/Users/Anisha.S/Documents/helmet-detection-yolov8/venv/dataset/runs/detect/train2/weights/best.pt")
+# model = YOLO("best.pt")
 
 # cap = cv2.VideoCapture(0)  # or "video.mp4"
 
